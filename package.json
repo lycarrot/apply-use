@@ -1,7 +1,7 @@
 {
-  "name": "rollup-lib",
+  "name": "applyuse",
   "version": "0.0.0",
-  "description": "",
+  "description": "vue3常用的hooks集合",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
   "browser": "lib/index.umd.js",
@@ -30,7 +30,11 @@
     "prettier": "^2.8.3",
     "rollup": "^3.11.0",
     "tslib": "^2.5.0",
-    "typescript": "^4.9.4"
+    "typescript": "^4.9.4",
+    "vue": "^3.3.4"
   },
-  "keywords": []
+  "peerDependencies": {
+    "vue": "^3.0.0"
+  },
+  "keywords": ["vue3","hooks"]
 }
