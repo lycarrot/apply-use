@@ -1,6 +1,6 @@
 {
   "name": "applyuse",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "vue3常用的hooks集合",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
@@ -36,5 +36,8 @@
   "peerDependencies": {
     "vue": "^3.0.0"
   },
-  "keywords": ["vue3","hooks"]
+  "keywords": [
+    "vue3",
+    "hooks"
+  ]
 }
