@@ -2,9 +2,9 @@
 
 ### 安装方法
 ```
-npm i applyuse--save-dev 
+npm i applyuse --save-dev 
 或
-yarn install applyuse--save-dev
+yarn add applyuse --save-dev
 ```
 
 ### 基础用法
