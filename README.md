@@ -2,13 +2,13 @@
 
 ### 安装方法
 ```
-npm i apply-use --save-dev 
+npm i apply-hooks--save-dev 
 或
-yarn install apply-use --save-dev
+yarn install apply-hooks--save-dev
 ```
 
 ### 基础用法
-
+np
 ```js
 <script setup lang="ts">
 import  {useRect}  from "@apply-use";

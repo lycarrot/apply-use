@@ -1,6 +1,6 @@
 {
-  "name": "apply-use",
-  "version": "0.0.4",
+  "name": "apply-hooks",
+  "version": "0.0.1",
   "description": "vue3常用的hooks集合",
   "main": "lib/index.cjs.js",
   "module": "lib/index.esm.js",
