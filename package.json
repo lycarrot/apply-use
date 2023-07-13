@@ -1,5 +1,5 @@
 {
-  "name": "applyuse",
+  "name": "apply-use",
   "version": "0.0.3",
   "description": "vue3常用的hooks集合",
   "main": "lib/index.cjs.js",

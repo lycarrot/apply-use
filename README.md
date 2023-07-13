@@ -2,16 +2,16 @@
 
 ### 安装方法
 ```
-npm i applyuse --save-dev 
+npm i apply-use --save-dev 
 或
-yarn install applyuse --save-dev
+yarn install apply-use --save-dev
 ```
 
 ### 基础用法
 
 ```js
 <script setup lang="ts">
-import  {useRect}  from "@applyuse";
+import  {useRect}  from "@apply-use";
 const {width,height}=useWindowSize()
 </script>
 ```
